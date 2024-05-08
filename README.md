@@ -29,4 +29,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. D
 
 ## Point of Contact:
 
-Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord.
+Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on WhatsApp.
