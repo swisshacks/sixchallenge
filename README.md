@@ -3,9 +3,18 @@
 
 Case Introduction:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque dapibus, tortor in feugiat varius, sem purus aliquet quam, vel volutpat lorem nibh eu lacus. Donec massa ligula, auctor vitae erat eget, vulputate sagittis nisl. Praesent iaculis, lectus ut volutpat interdum, eros odio vestibulum eros, eget porta tellus lectus vitae massa.
+Sustainability matters for a multitude of reasons, encompassing environmental,f social, and economic dimensions. By prioritizing sustainability, we can create a more equitable, resilient, and prosperous world of present and future generations. Unfortunately, in the absence of standardization, gathering of accurate and reliable data on sustainability performance of a company across various operations, supply chain complexity, high cost of implementation, constantly changing regulations and standards, and lack of skilled resources are some of the challenges listed companies are facing today to provide meaningful information to investors regarding their progress on sustainability. Thus, it is not surprising that most of the investors mistrust the sustainability information that listed companies disclose and doubt that they will be able to implement their transition plans.
 
-Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis felis accumsan, ut imperdiet dui tincidunt. Aenean a est dapibus, dictum velit at, eleifend erat. Proin ut faucibus dolor. Vestibulum pulvinar magna at consectetur posuere. Sed in dolor id enim tempus malesuada. Pellentesque nec dignissim erat, ut feugiat turpis.
+SIX is committed to help their listed companies transition to a more sustainable future. It is important to understand that stock exchanges do not control capital flows – investors decide where to deploy their capital. Nevertheless, stock exchanges can reduce capital-market inefficiencies that can hinder the optimal allocation of economic resources i.e., towards transitioning to a sustainable economy. With the beforementioned objective and scope in mind, SIX aims to bring awareness to their listed companies about various tools (best practices) available in the market to track and report their sustainability progress along the value chain. 
+
+Use Cases for such a solution include: 
+•	Companies gather insights on best practices on sustainability methodologies, relevant datasets and reporting practices implemented by peers within or beyond their respective industries.
+•	Investors can leverage specific sustainability tools implemented by companies to evaluate either their carbon footprint or the potential risks posed to their investments. 
+
+## Expected Outcome:
+
+A platform of aggregated and categorized tools for ESG data depending on needs. OR a program able to identify the right tools for each industry.
+We expect a mockup version with or without actual data behind.
 
 ## The Pitch:
 
@@ -17,16 +26,21 @@ Insert Deep Dive Slides here
 
 ## Further Information:
 
-Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
+Insert further information here
 
 ## Resources:
+Please use publicly available data for the case.
 
-Lorem ipsum dolor sit amet
-consectetur adipiscing elit
-Judging Criteria:
+## Judging Criteria:
+* Creativity (30%) - Yes important on the conceptualization of the solution 
+* Visual design (30%) - Yes, important criteria the user experience 
+* Feasibility (20X%) - Yes, visual design encompasses of actual data and is scalable
+* Reachability (20%) - B2B market solution
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue.
 
 ## Point of Contact:
 
 Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on WhatsApp.
+
+## Price - the winning team members will each receive:
+Presentation to Senior Management at SIX Exchanges 
