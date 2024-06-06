@@ -8,8 +8,8 @@ Sustainability matters for a multitude of reasons, encompassing environmental,f 
 SIX is committed to help their listed companies transition to a more sustainable future. It is important to understand that stock exchanges do not control capital flows – investors decide where to deploy their capital. Nevertheless, stock exchanges can reduce capital-market inefficiencies that can hinder the optimal allocation of economic resources i.e., towards transitioning to a sustainable economy. With the beforementioned objective and scope in mind, SIX aims to bring awareness to their listed companies about various tools (best practices) available in the market to track and report their sustainability progress along the value chain. 
 
 Use Cases for such a solution include: 
-•	Companies gather insights on best practices on sustainability methodologies, relevant datasets and reporting practices implemented by peers within or beyond their respective industries.
-•	Investors can leverage specific sustainability tools implemented by companies to evaluate either their carbon footprint or the potential risks posed to their investments. 
+* Companies gather insights on best practices on sustainability methodologies, relevant datasets and reporting practices implemented by peers within or beyond their respective industries.
+* Investors can leverage specific sustainability tools implemented by companies to evaluate either their carbon footprint or the potential risks posed to their investments. 
 
 ## Expected Outcome:
 
@@ -34,7 +34,7 @@ Please use publicly available data for the case.
 ## Judging Criteria:
 * Creativity (30%) - Yes important on the conceptualization of the solution 
 * Visual design (30%) - Yes, important criteria the user experience 
-* Feasibility (20X%) - Yes, visual design encompasses of actual data and is scalable
+* Feasibility (20%) - Yes, visual design encompasses of actual data and is scalable
 * Reachability (20%) - B2B market solution
 
 
