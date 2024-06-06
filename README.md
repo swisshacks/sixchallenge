@@ -37,10 +37,9 @@ Please use publicly available data for the case.
 * Feasibility (20%) - Yes, visual design encompasses of actual data and is scalable
 * Reachability (20%) - B2B market solution
 
-
 ## Point of Contact:
 
-Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on WhatsApp.
+Insert name of contact points during the event. 
 
 ## Price - the winning team members will each receive:
 Presentation to Senior Management at SIX Exchanges 
