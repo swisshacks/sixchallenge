@@ -22,7 +22,8 @@ Insert Pitchdeck here
 
 ## Deep Dive Slides:
 
-Insert Deep Dive Slides here
+Insert Deep Dive Slides here[202406_SwissHacks - SIX Challenge.pdf](https://github.com/user-attachments/files/15840874/202406_SwissHacks.-.SIX.Challenge.pdf)
+
 
 ## Further Information:
 
