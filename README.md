@@ -28,9 +28,6 @@ Insert Deep Dive Slides here: [202406_SwissHacks - SIX Challenge.pdf](https://gi
 ## Further Information:
 
 Insert further information here
-[Codes Classifications FTSE.xlsx](https://github.com/user-attachments/files/16040848/Codes.Classifications.FTSE.xlsx)
-[Sector codes of listed companies.xlsx](https://github.com/user-attachments/files/16040849/Sector.codes.of.listed.companies.xlsx)
-[List of standards_VS.docx](https://github.com/user-attachments/files/16040853/List.of.standards_VS.docx)
 
 
 ## Resources:
